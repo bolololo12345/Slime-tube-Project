@@ -4,6 +4,6 @@
 Slime Tube Project jest to Projekt Open Suorse NA licenji GNU General Public License 3.0
 
 
-<a href="https://slime-tube.ct8.pl/tube/">Strona wykrzystujaca Skrypt Slime Tube</a>
+<a href="https://slime-tube.ct8.pl">Strona wykrzystujaca Skrypt Slime Tube</a>
 
 
